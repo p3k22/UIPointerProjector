@@ -1,0 +1,17 @@
+{
+  "name": "com.p3k.uipointerprojector",
+  "version": "1.0.0",
+  "displayName": "UI Pointer Projector",
+  "description": "Projects pointer input (camera-forward or mouse-screen) onto a RenderTexture-backed UI Canvas, enabling interaction with world-space quads displaying UI. Includes editor tools for creating projectors, RenderTextures, unlit materials, and UI render setups.",
+  "unity": "2020.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/p3k22/UIPointerProjector/#readme",
+  "author": {
+    "name": "P3k",
+    "url": "https://github.com/p3k22"
+  },
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.inputsystem": "1.5.0"
+  }
+}

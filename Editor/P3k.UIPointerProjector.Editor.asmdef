@@ -1,0 +1,20 @@
+{
+    "name": "P3k.UIPointerProjector.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a44acfa9c16974a4e9c85701ba4a5958",
+        "GUID:945e499640e406f47a8c6d27c98c4f14",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

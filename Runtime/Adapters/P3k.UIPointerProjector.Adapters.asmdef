@@ -1,0 +1,17 @@
+{
+    "name": "P3k.UIPointerProjector.Adapters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a44acfa9c16974a4e9c85701ba4a5958",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
